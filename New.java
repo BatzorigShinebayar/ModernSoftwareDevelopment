@@ -1,1 +1,1 @@
-blah blah blah
+string str = shine
